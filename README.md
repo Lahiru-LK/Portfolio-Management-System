@@ -4,6 +4,11 @@ Welcome to the **Portfolio Management System**! This project is a robust, local 
 
 ---
 
+https://github.com/user-attachments/assets/6c1f718a-ed9a-4e0c-a234-1b37d975a71b
+![image](https://github.com/user-attachments/assets/504e9eb4-8695-441c-aaad-657e45e36d77)
+
+
+
 ## 🔧 Key Features
 
 ### 📈 Portfolio Management:
@@ -124,16 +129,20 @@ This project utilizes Ollama’s advanced AI models to:
 ## 🌐 Screenshots
 
 ### Main Menu
-![Main Menu](image1.png)
+![image](https://github.com/user-attachments/assets/c32b1ce1-45c0-45f5-950b-534b9528e010)
+
 
 ### Portfolio Table
-![Portfolio Table](image2.png)
+![image](https://github.com/user-attachments/assets/d75027bd-ac8b-45bc-9d28-fdd28bbaece3)
+
 
 ### Risk Graph
-![Risk Graph](image3.png)
+![image](https://github.com/user-attachments/assets/dc0fa80a-f8e0-416a-a86a-1b12839443d3)
+
 
 ### AI Query Example
-![AI Query](image4.png)
+![image](https://github.com/user-attachments/assets/8b70f0ba-3bdb-4ca0-b63c-efaaaa855663)
+
 
 ---
 
