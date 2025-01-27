@@ -4,7 +4,12 @@ Welcome to the **Portfolio Management System**! This project is a robust, local 
 
 ---
 
-https://github.com/user-attachments/assets/ae373a46-fa5f-403d-9b3b-4505f1562103
+
+https://github.com/user-attachments/assets/c7b9aabb-1845-482a-b54e-f0ec47ee85ee
+
+
+
+
 ![image](https://github.com/user-attachments/assets/504e9eb4-8695-441c-aaad-657e45e36d77)
 ![image](https://github.com/user-attachments/assets/d88b28a8-5aaa-4b9e-9ac4-e0f665e7d053)
 
